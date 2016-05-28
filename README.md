@@ -6,7 +6,7 @@ The usage of CGLib-for-Android is similar with CGLib, but CGLib only supports ja
 
 <br>
 1 Download cglib-for-android.jar to your project
-* library/lib-output/cglib-for-android.jar
+* [library/lib-output/cglib-for-android.jar](https://github.com/leo-ouyang/CGLib-for-Android/blob/master/library/lib-output/cglib-for-android.jar) (Right-click and Save as)
 
 <br>
 2 Define the bussiness class which will be proxied in future
